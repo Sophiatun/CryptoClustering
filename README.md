@@ -2,7 +2,7 @@
 
 Used the elbow curve method to normalized data and to find the optimal k value for the K-Means model that will use all of the original features of the dataset.
 
-![K Value](https://github.com/Sophiatun/CryptoClustering/blob/main/Resources/Images/k_value.png)https://github.com/Sophiatun/CryptoClustering/blob/main/Resources/Images/k_value.png)
+![K Value](https://github.com/Sophiatun/CryptoClustering/blob/main/Resources/Images/k_value.png)
 
 
 Then, using the optimal k value I train and predict the K-Means model to generate 4 clusters of cryptocurrencies. The inertia of each cluster was significant enough to consider reducing the amount of features.
